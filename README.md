@@ -1,1 +1,2 @@
-# eShopSolution
+# eShopWebsite
+# use .Net 6
